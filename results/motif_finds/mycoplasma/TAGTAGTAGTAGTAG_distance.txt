@@ -1,0 +1,12 @@
+Number of motifs: 34
+Average distance: 7874.060606060606
+Minimum distance: 3
+Maximum distance: 124303
+
+20 most common spacings:
+
+distance=3 count=29
+distance=55027 count=1
+distance=2590 count=1
+distance=124303 count=1
+distance=77837 count=1

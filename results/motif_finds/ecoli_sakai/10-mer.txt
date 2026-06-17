@@ -1,0 +1,52 @@
+Genome length: 5594605
+Real GC content: 0.5048415393043835
+
+Transition probabilities:
+
+A
+   A->G: 0.2086
+   A->T: 0.2725
+   A->C: 0.2226
+   A->A: 0.2963
+G
+   G->C: 0.3179
+   G->A: 0.2302
+   G->G: 0.2337
+   G->T: 0.2181
+C
+   C->T: 0.2032
+   C->A: 0.2774
+   C->G: 0.2875
+   C->C: 0.2319
+T
+   T->T: 0.2964
+   T->C: 0.2325
+   T->G: 0.2834
+   T->A: 0.1877
+
+Generating Markov genome...
+Generated genome length: 5594605
+Generated GC content: 0.5045450036240271
+
+Top motif comparison:
+
+CAGCGCCAGC Real: 158 Markov: 9
+CTGGCGCTGG Real: 152 Markov: 7
+CCAGCGCCAG Real: 150 Markov: 5
+GCTGGCGCTG Real: 135 Markov: 12
+GGCGCTGGCG Real: 125 Markov: 9
+CGCATCCGGC Real: 124 Markov: 12
+CAGGCGCTGG Real: 120 Markov: 8
+CGCCAGCGCC Real: 118 Markov: 8
+CCAGCGCCTG Real: 116 Markov: 8
+GCATCCGGCA Real: 116 Markov: 14
+GCCAGCGCCA Real: 115 Markov: 7
+TGCCGGATGC Real: 108 Markov: 9
+TGGCGCTGGC Real: 106 Markov: 10
+GCCGGATGCG Real: 105 Markov: 11
+GCGCTGGCGG Real: 104 Markov: 15
+GCGGCGCTGG Real: 102 Markov: 18
+CCGCCAGCAG Real: 101 Markov: 8
+GCTGGCGCAG Real: 100 Markov: 5
+GCCGCATCCG Real: 99 Markov: 7
+GCTGGAAAAA Real: 99 Markov: 10
